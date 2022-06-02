@@ -1,0 +1,46 @@
+@font-face{
+    font-family: Rubik;
+    src: url(../fuentes/Rubik-Regular.ttf);
+    font-weight: 300;
+}
+
+@font-face{
+    font-family: Rubik;
+    src: url(../fuentes/Rubik-SemiBold.ttf);
+    font-weight: 500;
+}
+
+body{
+    font-family: Rubik;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 3.75em;
+}
+
+#intro1{
+    font-weight: 300;
+    font-size: 3.12em;
+}
+
+#intro2{
+    font-weight: 300;
+    font-size: 3.12em;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 2.18em;
+}
+
+p{
+    font-weight: 300;
+    font-size: 2.18em;
+}
+
+#parrafo{
+    font-weight: 500;
+}
+
+background-image: linear-gradient(red, black);
